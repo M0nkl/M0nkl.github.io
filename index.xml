@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Добро пожаловать on ScheduleBot</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Добро пожаловать on ScheduleBot</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О проекте</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Цель проекта:&lt;/strong&gt;&lt;br&gt;&#xA;Хотим улучшить жизнь студентам Московского Политеха, сделать доступ к расписанию проще и удобнее.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ресурсы</title>
+      <link>https://example.com/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/resources/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://core.telegram.org/bots&#34;&gt;Официальная документация Telegram Bot API&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/ru-ru/dotnet/&#34;&gt;Документация по .NET Core&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mospolytech.ru/&#34;&gt;Сайт университета МосПолитех&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://e.mospolytech.ru/#/schedule/current&#34;&gt;Электронное расписание МосПолитеха&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Участники</title>
+      <link>https://example.com/participants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/participants/</guid>
+      <description>&lt;h2 id=&#34;комаров-егор&#34;&gt;Комаров Егор&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Факультет:&lt;/strong&gt; Информационные технологии, группа 241-335&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/pojalustayuidi&#34;&gt;https://github.com/pojalustayuidi&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Вклад:&lt;/strong&gt; программирование бота, настройка API расписания, настройка GitHub.&lt;/p&gt;&#xA;&lt;h2 id=&#34;масленников-олег&#34;&gt;Масленников Олег&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Факультет:&lt;/strong&gt; Информационные технологии, группа 241-335&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/M0nkl&#34;&gt;https://github.com/M0nkl&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Вклад:&lt;/strong&gt; создание сайта, анализ данных, программирование бота.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
