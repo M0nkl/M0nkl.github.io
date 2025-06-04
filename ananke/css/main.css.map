@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/oleg/Desktop/Учеба/MosPolyRaspSite/MPraspSite",
+	"sourceRoot": "/Users/oleg/Desktop/Учеба/mprsite",
 	"sources": [
 		"ananke/css/main.css"
 	],

@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Добро пожаловать on ScheduleBot</title>
+    <title>Главная on MosPolytech-Schedule</title>
     <link>https://example.com/</link>
-    <description>Recent content in Добро пожаловать on ScheduleBot</description>
+    <description>Recent content in Главная on MosPolytech-Schedule</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Журнал</title>
+      <link>https://example.com/log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/log/</guid>
+      <description>&lt;h2 id=&#34;03032025--презентация-концепции-настольной-игры-выход-есть&#34;&gt;03.03.2025 — Презентация концепции настольной игры &amp;ldquo;Выход есть!&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;На занятии по проектной деятельности была представлена первая отчётная презентация по настольной игре &amp;ldquo;Выход есть!&amp;rdquo;. Разработкой концепции игры занимались Неткачев Даниил и Лендер Марк (группа 241–321). Были представлены правила игры, карточки ситуаций, набросок поля и др.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;05032025---разработка-локаций-для-игры-safaty-madness&#34;&gt;05.03.2025 - Разработка Локаций для игры &amp;ldquo;Safaty Madness&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Масленников Олег (241-335), начал продумывание локаций, эвентов и всяческой аналитики данных подаваемых в процессе игры, вроде подсказок и рекомендаций&lt;/p&gt;</description>
+    </item>
     <item>
       <title>О проекте</title>
       <link>https://example.com/about/</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Цель проекта:&lt;/strong&gt;&lt;br&gt;&#xA;Хотим улучшить жизнь студентам Московского Политеха, сделать доступ к расписанию проще и удобнее.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;объект-исследования&#34;&gt;Объект исследования&lt;/h2&gt;&#xA;&lt;p&gt;Система охраны труда в образовательных учреждениях (школах, вузах) и на предприятиях.&lt;/p&gt;&#xA;&lt;h2 id=&#34;предмет-исследования&#34;&gt;Предмет исследования&lt;/h2&gt;&#xA;&lt;p&gt;Организационные, правовые и методические аспекты обеспечения безопасных условий труда&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;проблематика&#34;&gt;Проблематика&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Падения с высоты (23%)&lt;/li&gt;&#xA;&lt;li&gt;Травмы от механизмов (22%)&lt;/li&gt;&#xA;&lt;li&gt;ДТП (15%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Наибольшее количество пострадавших:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Обрабатывающая промышленность (31%)&lt;/li&gt;&#xA;&lt;li&gt;Логистика (15%)&lt;/li&gt;&#xA;&lt;li&gt;Здравоохранение (14%)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;методы-реализации&#34;&gt;Методы реализации&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Анализ нормативной базы (ТК РФ, ГОСТ)&lt;/li&gt;&#xA;&lt;li&gt;Полевые исследования&lt;/li&gt;&#xA;&lt;li&gt;Разработка обучающих материалов&lt;/li&gt;&#xA;&lt;li&gt;Проведение практики&lt;/li&gt;&#xA;&lt;li&gt;Анкетирование&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ожидаемые-результаты&#34;&gt;Ожидаемые результаты&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Повышение осведомлённости&lt;/li&gt;&#xA;&lt;li&gt;Снижение травматизма&lt;/li&gt;&#xA;&lt;li&gt;Универсальные методички&lt;/li&gt;&#xA;&lt;li&gt;Модель системы охраны труда&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ресурсы</title>
       <link>https://example.com/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/resources/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://core.telegram.org/bots&#34;&gt;Официальная документация Telegram Bot API&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/ru-ru/dotnet/&#34;&gt;Документация по .NET Core&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mospolytech.ru/&#34;&gt;Сайт университета МосПолитех&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://e.mospolytech.ru/#/schedule/current&#34;&gt;Электронное расписание МосПолитеха&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://core.telegram.org/bots&#34;&gt;Официальная документация Telegram Bot API&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://learn.microsoft.com/ru-ru/dotnet&#34;&gt;Документация по .NET Core&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mospolytech.ru/&#34;&gt;Сайт Московского Политеха&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://e.mospolytech.ru/#/schedule/current&#34;&gt;Электронное расписание&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/pojalustayuidi/Safety-madness&#34;&gt;Safety Madness на GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/pojalustayuidi/mospolytech-schedule-bot&#34;&gt;MosPolytech-Schedule GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mchs.gov.ru/&#34;&gt;Сайт МЧС России&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Участники</title>
       <link>https://example.com/participants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/participants/</guid>
-      <description>&lt;h2 id=&#34;комаров-егор&#34;&gt;Комаров Егор&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Факультет:&lt;/strong&gt; Информационные технологии, группа 241-335&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/pojalustayuidi&#34;&gt;https://github.com/pojalustayuidi&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Вклад:&lt;/strong&gt; программирование бота, настройка API расписания, настройка GitHub.&lt;/p&gt;&#xA;&lt;h2 id=&#34;масленников-олег&#34;&gt;Масленников Олег&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Факультет:&lt;/strong&gt; Информационные технологии, группа 241-335&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/M0nkl&#34;&gt;https://github.com/M0nkl&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Вклад:&lt;/strong&gt; создание сайта, анализ данных, программирование бота.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;комаров-егор&#34;&gt;Комаров Егор&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Факультет:&lt;/strong&gt; Информационные технологии, группа 241-335&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/pojalustayuidi&#34;&gt;https://github.com/pojalustayuidi&lt;/a&gt;&#xA;&lt;img src=&#34;https://example.com/images/Egorinfo.jpg&#34; alt=&#34;Скриншот 1&#34;&gt;&lt;br&gt;&#xA;&lt;strong&gt;Вклад:&lt;/strong&gt; Программирование игры &amp;ldquo;Safety-Madness&amp;rdquo;, бота, API и GitHub&lt;/p&gt;&#xA;&lt;h3 id=&#34;масленников-олег&#34;&gt;Масленников Олег&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Факультет:&lt;/strong&gt; Информационные технологии, группа 241-335&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/M0nkl&#34;&gt;https://github.com/M0nkl&lt;/a&gt;&#xA;&lt;img src=&#34;https://example.com/images/Oleginfo.jpg&#34; alt=&#34;Скриншот 2&#34;&gt;&lt;br&gt;&#xA;&lt;strong&gt;Вклад:&lt;/strong&gt; Разработка игры, сайта, анализ, бот&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
